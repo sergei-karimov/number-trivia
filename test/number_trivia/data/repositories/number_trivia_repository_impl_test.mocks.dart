@@ -6,7 +6,7 @@
 import 'dart:async' as _i4;
 
 import 'package:mockito/mockito.dart' as _i1;
-import 'package:number_trivia/core/platform/network_info.dart' as _i6;
+import 'package:number_trivia/core/network/network_info.dart' as _i6;
 import 'package:number_trivia/number_trivia/data/data_sorces/number_trivia_local_data_source.dart'
     as _i5;
 import 'package:number_trivia/number_trivia/data/data_sorces/number_trivia_remote_data_source.dart'
